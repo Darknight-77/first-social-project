@@ -620,7 +620,7 @@ body{
 .storyslider{
     width: 300%;
     flex-direction: row;
-    
+    overflow-x: scroll;
 }
 
 .storyadderholder{
